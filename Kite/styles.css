@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0;
+	
+}
+
+.top-title {
+	text-align: center;
+}
+
+.pink-sqaures {
+	width:100%;
+}
+
+.space-filler {
+	font-size: 1.5vw;
+	
+}
+
+
